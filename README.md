@@ -5,19 +5,6 @@ This repository contains my solutions to coding challenges from LeetCode
 .
 The goal is to practice problem-solving, strengthen data structures & algorithms (DSA), and explore solutions in Python, SQL, and Pandas.
 
-📂 Repository Structure
-.
-├── LeetCode/
-│   ├── SQL/
-│   ├── Python/
-│   └── Pandas/
-├── HackerRank/
-│   ├── R/
-│   ├── Numpy/
-│   └── SQL/
-└── README.md
-
-
 LeetCode/ → Contains categorized solutions to LeetCode problems.
 
 HackerRank/ → Contains categorized solutions to HackerRank challenges.
