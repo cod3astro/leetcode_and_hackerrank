@@ -1,4 +1,4 @@
-iii🚀 LeetCode & HackerRank Solutions
+🚀 LeetCode & HackerRank Solutions
 
 This repository contains my solutions to coding challenges from LeetCode
  and HackerRank
