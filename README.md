@@ -13,7 +13,7 @@ Each file is named after the problem for easy navigation.
  
 ⚙️ Technologies Used
 
-Python 🐍 for general problem-solving. 
+Python 🐍 for general problem-solving.
 
 NumPy 🔢 for numerical computing.
 
