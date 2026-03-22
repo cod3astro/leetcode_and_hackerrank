@@ -10,7 +10,7 @@ LeetCode/ → Contains categorized solutions to LeetCode problems.
 HackerRank/ → Contains categorized solutions to HackerRank challenges.
 
 Each file is named after the problem for easy navigation.
- 
+
 ⚙️ Technologies Used
 
 Python 🐍 for general problem-solving.
