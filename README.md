@@ -8,7 +8,7 @@ The goal is to practice problem-solving, strengthen data structures & algorithms
 LeetCode/ → Contains categorized solutions to LeetCode problems.
 
 HackerRank/ → Contains categorized solutions to HackerRank challenges.
-
+ 
 Each file is named after the problem for easy navigation.
 
 ⚙️ Technologies Used
