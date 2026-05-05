@@ -23,7 +23,7 @@ SQL 🗄️ for database-related problems.
 
 R 📈 for statistical analysis and data handling.
 
-📝 Problem-Solving Approach 
+📝 Problem-Solving Approach  
 
 Understand the problem → carefully read constraints and examples.
 
