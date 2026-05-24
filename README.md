@@ -3,7 +3,7 @@
 This repository contains my solutions to coding challenges from LeetCode
  and HackerRank
 .
-The goal is to practice problem-solving, strengthen data structures & algorithms (DSA), and explore solutions in Python, SQL, and Pandas.
+The goal is to practice problem-solving, strengthen data structures & algorithms (DSA), and explore solutions in Python, SQL, and Pandas. 
 
 LeetCode/ → Contains categorized solutions to LeetCode problems.
 
