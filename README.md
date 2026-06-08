@@ -17,7 +17,7 @@ Python 🐍 for general problem-solving.
 
 NumPy 🔢 for numerical computing.
 
-Pandas 📊 for data manipulation problems.
+Pandas 📊 for data manipulation problems. 
 
 SQL 🗄️ for database-related problems.
 
