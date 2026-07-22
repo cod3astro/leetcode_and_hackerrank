@@ -20,7 +20,7 @@ NumPy 🔢 for numerical computing.
 Pandas 📊 for data manipulation problems.
 
 SQL 🗄️ for database-related problems. 
-
+ 
 R 📈 for statistical analysis and data handling. 
 
 📝 Problem-Solving Approach
